@@ -4,17 +4,17 @@ This repository contains a simple real-time chat application built using Node.js
 
 # Key Features:
 
-WebSocket communication using Socket.io for real-time updates
-Basic HTML front-end for user interaction
-Broadcasting typing and stop typing events to enhance user experience
-Event-driven programming model for handling connections, messages, and disconnections
+- WebSocket communication using Socket.io for real-time updates
+- Basic HTML front-end for user interaction
+- Broadcasting typing and stop typing events to enhance user experience
+- Event-driven programming model for handling connections, messages, and disconnections
 
 # How to Use:
 
-Clone the repository.
-Install dependencies with npm install.
-Start the server using npm start.
-Open the application in your browser and begin chatting in real-time.
+- Clone the repository.
+- Install dependencies with npm install.
+- Start the server using npm start.
+- Open the application in your browser and begin chatting in real-time.
 
 # Note:
 
